@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0200-number-of-islands](https://github.com/Ashok-0167/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [1766-tree-of-coprimes](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1766-tree-of-coprimes) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Simulation
 |  |
