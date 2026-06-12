@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ashok-0167/LeetCode-Solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [1766-tree-of-coprimes](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1766-tree-of-coprimes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -12,6 +13,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ashok-0167/LeetCode-Solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Ashok-0167/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [1766-tree-of-coprimes](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1766-tree-of-coprimes) |
@@ -20,12 +22,14 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ashok-0167/LeetCode-Solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Ashok-0167/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ashok-0167/LeetCode-Solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 ## Array
 |  |
