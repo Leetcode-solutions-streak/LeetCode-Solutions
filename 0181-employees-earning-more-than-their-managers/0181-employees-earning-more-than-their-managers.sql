@@ -1,8 +1,9 @@
-SELECT 
-    e.name AS Employee
-FROM 
+# Write your MySQL query statement below
+SELECT
+    e.name  AS Employee
+FROM
     Employee e
-INNER JOIN 
+INNER JOIN
     Employee m ON e.managerId = m.id
-WHERE 
+WHERE
     e.salary > m.salary;
