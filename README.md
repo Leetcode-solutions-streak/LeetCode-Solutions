@@ -92,4 +92,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0069-sqrtx) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
