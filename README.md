@@ -37,6 +37,7 @@
 | [0001-two-sum](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0200-number-of-islands](https://github.com/Ashok-0167/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0821-shortest-distance-to-a-character](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1766-tree-of-coprimes](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1766-tree-of-coprimes) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -62,6 +63,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0031-next-permutation) |
+| [0821-shortest-distance-to-a-character](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Simulation
 |  |
@@ -86,6 +88,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0821-shortest-distance-to-a-character](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 ## Dynamic Programming
 |  |
 | ------- |
