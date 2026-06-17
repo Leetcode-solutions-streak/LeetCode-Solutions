@@ -4,6 +4,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Ashok-0167/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -12,6 +13,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Ashok-0167/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -28,6 +30,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Ashok-0167/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -105,4 +108,8 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
