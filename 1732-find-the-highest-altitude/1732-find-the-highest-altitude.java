@@ -6,7 +6,6 @@ class Solution {
             sum+=num;
             highPoint=Math.max(highPoint,sum);
         }
-        if(sum==0) return 0;
         return highPoint < 0 ? 0 : highPoint;
         
     }
