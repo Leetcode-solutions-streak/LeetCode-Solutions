@@ -83,6 +83,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1766-tree-of-coprimes](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1766-tree-of-coprimes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -134,4 +136,8 @@
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
