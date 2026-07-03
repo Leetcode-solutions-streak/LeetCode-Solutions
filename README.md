@@ -98,6 +98,7 @@
 | [0069-sqrtx](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1766-tree-of-coprimes](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1766-tree-of-coprimes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -195,4 +196,8 @@
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
