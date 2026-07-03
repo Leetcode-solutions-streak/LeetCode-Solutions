@@ -97,6 +97,7 @@
 | [0012-integer-to-roman](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -199,5 +200,10 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0326-power-of-three) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
