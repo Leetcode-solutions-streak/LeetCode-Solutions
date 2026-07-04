@@ -115,6 +115,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
