@@ -97,6 +97,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
