@@ -144,6 +144,7 @@
 | [0176-second-highest-salary](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0182-duplicate-emails) |
+| [0584-find-customer-referee](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0595-big-countries) |
 | [1164-product-price-at-a-given-date](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1164-product-price-at-a-given-date) |
 | [1484-group-sold-products-by-the-date](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1484-group-sold-products-by-the-date) |
