@@ -88,6 +88,7 @@
 | [0125-valid-palindrome](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0821-shortest-distance-to-a-character](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [1768-merge-strings-alternately](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Simulation
 |  |
@@ -125,6 +126,7 @@
 | [0125-valid-palindrome](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0821-shortest-distance-to-a-character](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [1768-merge-strings-alternately](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
