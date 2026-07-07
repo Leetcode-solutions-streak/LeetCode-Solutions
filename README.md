@@ -110,6 +110,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1766-tree-of-coprimes](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1766-tree-of-coprimes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Number Theory
 |  |
 | ------- |
