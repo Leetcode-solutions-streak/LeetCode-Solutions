@@ -55,6 +55,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3693-climbing-stairs-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
 ## Union-Find
@@ -63,6 +64,7 @@
 | [0200-number-of-islands](https://github.com/Ashok-0167/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
 | ------- |
@@ -75,6 +77,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
 |  |
 | ------- |
@@ -145,6 +148,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Database
 |  |
@@ -211,6 +215,7 @@
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
