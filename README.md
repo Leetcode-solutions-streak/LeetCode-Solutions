@@ -164,6 +164,7 @@
 | [1164-product-price-at-a-given-date](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1164-product-price-at-a-given-date) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1484-group-sold-products-by-the-date) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Geometry
 |  |
