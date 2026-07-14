@@ -141,6 +141,7 @@
 | [0165-compare-version-numbers](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0821-shortest-distance-to-a-character](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1143-longest-common-subsequence](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
@@ -148,6 +149,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0494-target-sum](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [1143-longest-common-subsequence](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
