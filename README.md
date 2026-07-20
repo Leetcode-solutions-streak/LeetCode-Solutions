@@ -192,6 +192,7 @@
 | [0620-not-boring-movies](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1164-product-price-at-a-given-date](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1164-product-price-at-a-given-date) |
+| [1251-average-selling-price](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1484-group-sold-products-by-the-date) |
