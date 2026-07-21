@@ -157,6 +157,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -283,6 +284,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Combinatorics
 |  |
 | ------- |
