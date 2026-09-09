@@ -247,6 +247,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
@@ -275,6 +276,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0120-triangle) |
@@ -335,6 +337,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0856-score-of-parentheses](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
@@ -486,6 +489,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Divide and Conquer
