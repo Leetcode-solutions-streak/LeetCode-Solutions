@@ -221,6 +221,7 @@
 | [1140-stone-game-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1406-stone-game-iii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1766-tree-of-coprimes](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1766-tree-of-coprimes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
@@ -297,6 +298,7 @@
 | [1143-longest-common-subsequence](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -357,6 +359,7 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3903-smallest-stable-index-i](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
@@ -484,6 +487,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Segment Tree
