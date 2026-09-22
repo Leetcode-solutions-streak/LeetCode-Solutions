@@ -11,6 +11,7 @@
 | [0101-symmetric-tree](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1766-tree-of-coprimes](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1766-tree-of-coprimes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
@@ -50,6 +51,7 @@
 | [0101-symmetric-tree](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Array
 |  |
 | ------- |
@@ -571,6 +573,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Nim Game
 |  |
 | ------- |
