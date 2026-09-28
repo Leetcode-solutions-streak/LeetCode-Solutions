@@ -60,6 +60,7 @@
 | [0031-next-permutation](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -134,6 +135,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/Ashok-0167/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -218,6 +220,7 @@
 | [0002-add-two-numbers](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
