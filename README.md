@@ -290,6 +290,7 @@
 | [0389-find-the-difference](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0567-permutation-in-string](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0833-find-and-replace-in-string](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0833-find-and-replace-in-string) |
@@ -325,6 +326,7 @@
 | [0486-predict-the-winner](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1140-stone-game-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -388,6 +390,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -405,6 +408,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1833-maximum-ice-cream-bars](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2029-stone-game-ix](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
@@ -549,6 +553,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
