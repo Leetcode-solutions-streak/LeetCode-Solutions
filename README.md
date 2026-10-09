@@ -66,6 +66,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Ashok-0167/LeetCode-Solutions/tree/master/0200-number-of-islands) |
@@ -410,6 +411,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0135-candy) |
 | [0678-valid-parenthesis-string](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1833-maximum-ice-cream-bars](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
