@@ -97,6 +97,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -531,6 +532,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
