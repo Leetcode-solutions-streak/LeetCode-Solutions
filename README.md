@@ -63,6 +63,7 @@
 | [0037-sudoku-solver](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -232,6 +233,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0093-restore-ip-addresses](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0494-target-sum](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0494-target-sum) |
@@ -704,4 +706,8 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
