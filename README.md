@@ -91,6 +91,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -224,6 +225,7 @@
 | [0786-k-th-smallest-prime-fraction](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0821-shortest-distance-to-a-character](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0986-interval-list-intersections](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -382,6 +384,7 @@
 | [0069-sqrtx](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0786-k-th-smallest-prime-fraction) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -471,6 +474,7 @@
 | [0786-k-th-smallest-prime-fraction](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0833-find-and-replace-in-string](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0833-find-and-replace-in-string) |
 | [1288-remove-covered-intervals](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
