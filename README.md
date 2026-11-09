@@ -25,6 +25,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Ashok-0167/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0565-array-nesting](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0565-array-nesting) |
+| [1267-count-servers-that-communicate](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1766-tree-of-coprimes](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1766-tree-of-coprimes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -37,6 +38,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Ashok-0167/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0322-coin-change) |
+| [1267-count-servers-that-communicate](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -89,6 +91,7 @@
 | [1140-stone-game-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1267-count-servers-that-communicate](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -147,6 +150,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ashok-0167/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -161,6 +165,7 @@
 | [0200-number-of-islands](https://github.com/Ashok-0167/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -496,6 +501,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [1267-count-servers-that-communicate](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1833-maximum-ice-cream-bars](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2029-stone-game-ix](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2351-first-letter-to-appear-twice](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
