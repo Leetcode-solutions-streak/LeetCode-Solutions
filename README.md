@@ -117,6 +117,7 @@
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
