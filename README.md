@@ -122,6 +122,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -457,6 +458,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Greedy
 |  |
@@ -630,6 +632,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2747-count-zero-request-servers](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Leetcode-solutions-streak/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bracket Sequences
 |  |
